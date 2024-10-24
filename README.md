@@ -21,7 +21,7 @@
 1. 执行脚本：`python config_defines.py <input_file_path> <output_file_path>`
 
    > `input_file_path`: 内核配置文件 `.config` 的路径
-
+   > 
    > `output_file_path`: 生成文件的路径。
 
 2. 在 `c_cpp_properties.json` 中的 `defines` 字段中。
